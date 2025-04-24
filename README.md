@@ -47,10 +47,10 @@ Sorumluluk Reddi
 ## 📸 Görseller
 
 ### Discord Komutlar
-![Discord](Ekran Fotoğrafı.png)
+![Discord](Ekran%20Fotoğrafı.png)
 
 ### Discord Cevap
-![Bot Yanıtı](assets/Ekran Fotoğrafı 2.png)
+![Bot Yanıtı](Ekran%20Fotoğrafı%202.png)
 
 ------------------
 
