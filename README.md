@@ -41,10 +41,8 @@ main.py dosyasında client.run("TOKENİN") kısmına kendi kullanıcı tokenini 
 Çalıştır:
 
 bash
-Kopyala
-Düzenle
 python main.py
-⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.
+⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.```
 
 ⚠️ UYARI
 Bu bot Discord’un kullanım koşullarına aykırıdır ve selfbot kullanımı hesabınızın askıya alınmasına sebep olabilir.
