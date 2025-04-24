@@ -34,15 +34,16 @@ Bu selfbot, kendi Discord hesabınızdan sadece sizin mesajlarınıza cevap veri
 1. Python 3.8+ kurulu olduğundan emin ol
 2. Gerekli paketi kur:
 
-```bash
+bash
 pip install git+https://github.com/dolfies/discord.py-self.git
-main.py dosyasında client.run("TOKENİN") kısmına kendi kullanıcı tokenini gir
 
-Çalıştır:
+3. main.py dosyasında client.run("TOKENİN") kısmına kendi kullanıcı tokenini gir
+
+4. Çalıştır:
 
 bash
 python main.py
-⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.```
+⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.
 
 ⚠️ UYARI
 Bu bot Discord’un kullanım koşullarına aykırıdır ve selfbot kullanımı hesabınızın askıya alınmasına sebep olabilir.
