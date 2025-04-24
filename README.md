@@ -41,8 +41,8 @@ pip install git+https://github.com/dolfies/discord.py-self.git
 
 4. Çalıştır:
 
-bash
 python main.py
+
 ⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.
 
 ⚠️ UYARI
