@@ -44,6 +44,15 @@ python main.py
 
 Sorumluluk Reddi
 -----------------
+## 📸 Görseller
+
+### Discord Komutlar
+![Discord](Ekran Fotoğrafı.png)
+
+### Discord Cevap
+![Bot Yanıtı](assets/Ekran Fotoğrafı 2.png)
+
+------------------
 
 ⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.
 
