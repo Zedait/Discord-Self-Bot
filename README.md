@@ -20,8 +20,8 @@ Bu selfbot, kendi Discord hesabınızdan sadece sizin mesajlarınıza cevap veri
 
 | Komut                 | Açıklama                           |
 |----------------------|------------------------------------|
-| `!otocevap aç`        | Otomatik cevap sistemini açar      |
-| `!otocevap kapat`     | Otomatik cevap sistemini kapatır   |
+| `!otocevap aç`        | DM otomatik cevap sistemini açar      |
+| `!otocevap kapat`     | DM otomatik cevap sistemini kapatır   |
 | `!sunucucevap aç`     | Sunucu mesajlarına cevap açılır    |
 | `!sunucucevap kapat`  | Sunucu mesajlarına cevap kapanır   |
 
