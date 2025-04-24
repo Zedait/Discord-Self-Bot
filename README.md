@@ -42,6 +42,7 @@ pip install git+https://github.com/dolfies/discord.py-self.git
 4. Çalıştır:
 
 python main.py
+-----------------
 
 ⚠️ Bu selfbot, yalnızca kendi hesabınızda kullanılmak üzere geliştirilmiştir.
 
@@ -53,7 +54,7 @@ Bu bot sadece kişisel ve test amaçlı kullanım içindir.
 Hesabınız banlanırsa sorumluluk tamamen size aittir.
 
 Bu projenin geliştiricisi hiçbir şekilde sorumluluk kabul etmez.
-
+----------------------
 👤 Geliştirici
 Zedait tarafından geliştirildi ✨
 Proje bağlantısı: https://github.com/Zedait/Discord-Self-Bot
